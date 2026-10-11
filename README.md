@@ -1,114 +1,73 @@
-<h1 align="center"> Alejandro Mayorca Soto </h1>
+<div align="center">
 
-<h3 align="center">
-Ingeniero de Sistemas · Desarrollador Software · Web · Automatización · Bots
-</h3>
+# Hola, soy Alejandro 👋
 
-<p align="center">
-💻 Código · ⚙️ Sistemas · 🤖 Automatización · 🌐 Web · 🧠 Lógica
-</p>
+**Desarrollador de software · Ingeniería de Sistemas · Neiva, Colombia 🇨🇴**
 
-<p align="center">
-Transformo ideas en software funcional, estable y profesional.
-</p>
+Creo aplicaciones de escritorio, sitios web y automatizaciones que resuelven problemas reales.
+*I build desktop apps, websites and automations that solve real problems.*
 
----
+[![Email](https://img.shields.io/badge/Email-alejandromayorca03%40gmail.com-4FE0C2?style=flat-square&logo=gmail&logoColor=white)](mailto:alejandromayorca03@gmail.com)
+[![RAM Optimizer Pro](https://img.shields.io/badge/Descargar-RAM%20Optimizer%20Pro-0E9F8A?style=flat-square&logo=windows&logoColor=white)](https://github.com/AlejandroMayorca/RAM-Optimizer-Pro/releases/latest)
 
-<h2>👨‍💻 Perfil</h2>
-
-<p>
-Soy <b>Ingeniero de Sistemas</b> con conocimientos amplios en desarrollo de software, diseño de sistemas y automatización.
-Tengo la capacidad de adaptarme a distintos tipos de proyectos, tecnologías y necesidades.
-</p>
-
-<p>
-No me limito a una sola área: desarrollo desde <b>páginas web</b> hasta <b>programas complejos</b>, <b>bots</b>, <b>sistemas automatizados</b> y <b>herramientas personalizadas</b>.
-</p>
-
-<p>
-Mi enfoque siempre es el mismo:
-<b>software que funcione bien, sea escalable y tenga sentido.</b>
-</p>
+</div>
 
 ---
 
-<h2>🧠 Conocimientos y habilidades</h2>
+## 🚀 Proyecto destacado
 
-<ul>
-  <li>Diseño y desarrollo de software</li>
-  <li>Análisis y lógica de negocio</li>
-  <li>Resolución de problemas complejos</li>
-  <li>Estructuración de proyectos</li>
-  <li>Optimización de rendimiento</li>
-  <li>Mantenimiento y mejora de sistemas existentes</li>
-</ul>
+<table>
+<tr>
+<td width="55%">
+<a href="https://github.com/AlejandroMayorca/RAM-Optimizer-Pro">
+<img src="https://raw.githubusercontent.com/AlejandroMayorca/RAM-Optimizer-Pro/main/docs/screenshots/panel.png" alt="RAM Optimizer Pro">
+</a>
+</td>
+<td>
 
----
+### [RAM Optimizer Pro](https://github.com/AlejandroMayorca/RAM-Optimizer-Pro)
 
-<h2>🛠️ Qué puedo desarrollar</h2>
+Optimizador de memoria RAM gratuito para Windows 10 y 11.
 
-<ul>
-  <li>🌐 <b>Páginas web profesionales</b> (modernas, responsive y personalizadas)</li>
-  <li>🖥️ <b>Programas de escritorio</b></li>
-  <li>📦 <b>Aplicaciones personalizadas</b></li>
-  <li>🤖 <b>Bots de Discord avanzados</b></li>
-  <li>⚙️ <b>Sistemas de automatización</b></li>
-  <li>🧩 <b>Backend y APIs</b></li>
-  <li>📊 Sistemas de control, estadísticas y gestión</li>
-</ul>
+- Limpieza automática inteligente con 3 niveles
+- Inicio con Windows sin avisos de UAC
+- Instalador propio y actualizaciones sin perder ajustes
+- Python · CustomTkinter · Windows API
 
----
+**[⬇️ Descargar](https://github.com/AlejandroMayorca/RAM-Optimizer-Pro/releases/latest)**
 
-<h2>🤖 Bots de Discord</h2>
+</td>
+</tr>
+</table>
 
-<p>
-Desarrollo bots de Discord completos y a medida, capaces de manejar:
-</p>
+## 📂 Otros proyectos
 
-<ul>
-  <li>Moderación automática y avanzada</li>
-  <li>Sistemas de roles, rangos y permisos</li>
-  <li>Economías virtuales</li>
-  <li>Sistemas de niveles y experiencia</li>
-  <li>Logs, estadísticas y control del servidor</li>
-  <li>Comandos personalizados</li>
-  <li>Integración con APIs y bases de datos</li>
-</ul>
+| Proyecto | Descripción | Tecnología |
+|---|---|---|
+| [**SentinelHunter**](https://github.com/AlejandroMayorca/SentinelHunter) | Herramienta de defensa para Windows que detecta keyloggers y amenazas persistentes. | Python |
+| [**Generador de bots de Discord**](https://github.com/AlejandroMayorca/bot_discord_ayuda) | Genera un bot de Discord listo para usar con comandos, guía paso a paso y asistente para publicarlo en GitHub. | JavaScript · Python |
+| [**Web Shop Starter**](https://github.com/AlejandroMayorca/Proyecto_Pagina_Web) | Plantilla de tienda en línea responsive con catálogo y filtros, sin frameworks. | HTML · CSS · JS |
+
+Además desarrollo, como freelancer, **tiendas en línea, sitios para negocios y sistemas de registro** para clientes (repositorios privados).
+
+## 🛠️ Tecnologías
 
 <p>
-Bots estables, seguros y pensados para uso real.
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,php,java&perline=8" alt="Lenguajes"><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,linux,discord&perline=8" alt="Herramientas">
 </p>
+
+## 💼 Qué hago
+
+- 🌐 **Desarrollo web:** sitios y tiendas en línea modernos y adaptados a móvil.
+- 🖥️ **Aplicaciones de escritorio:** programas para Windows con instalador propio.
+- ⚙️ **Automatización:** scripts y herramientas que ahorran tiempo y reducen errores.
+- 🤖 **Bots de Discord:** moderación, roles, niveles, economía e integración con APIs.
 
 ---
 
-<h2>⚙️ Automatización</h2>
+<div align="center">
 
-<p>
-Automatizo procesos para ahorrar tiempo, reducir errores y mejorar eficiencia:
-</p>
+¿Tienes un proyecto en mente? Escríbeme a **alejandromayorca03@gmail.com**
 
-<ul>
-  <li>Scripts personalizados</li>
-  <li>Procesos repetitivos</li>
-  <li>Gestión de datos</li>
-  <li>Herramientas internas</li>
-  <li>Integración entre sistemas</li>
-</ul>
-
----
-
-<h2>💻 Tecnologías y herramientas</h2>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,mysql,linux,git,github,vscode&perline=6" />
-</p>
-
-<p>
-Selecciono la tecnología adecuada según el proyecto, no al revés.
-</p>
-
----
-
-<p align="center"> 
-No hay nada imposible para quien lo intenta. </b>
-</p>
+</div>
