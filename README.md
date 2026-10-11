@@ -9,12 +9,13 @@ Creo aplicaciones de escritorio, sitios web y automatizaciones que resuelven pro
 
 [![Email](https://img.shields.io/badge/Email-alejandromayorca03%40gmail.com-4FE0C2?style=flat-square&logo=gmail&logoColor=white)](mailto:alejandromayorca03@gmail.com)
 [![RAM Optimizer Pro](https://img.shields.io/badge/Descargar-RAM%20Optimizer%20Pro-0E9F8A?style=flat-square&logo=windows&logoColor=white)](https://github.com/AlejandroMayorca/RAM-Optimizer-Pro/releases/latest)
+[![SentinelHunter](https://img.shields.io/badge/Descargar-SentinelHunter-0369A1?style=flat-square&logo=windows&logoColor=white)](https://github.com/AlejandroMayorca/SentinelHunter/releases/latest)
 
 </div>
 
 ---
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
 
 <table>
 <tr>
@@ -38,13 +39,33 @@ Optimizador de memoria RAM gratuito para Windows 10 y 11.
 
 </td>
 </tr>
+<tr>
+<td width="55%">
+<a href="https://github.com/AlejandroMayorca/SentinelHunter">
+<img src="https://raw.githubusercontent.com/AlejandroMayorca/SentinelHunter/main/docs/screenshots/resultados.png" alt="SentinelHunter">
+</a>
+</td>
+<td>
+
+### [SentinelHunter](https://github.com/AlejandroMayorca/SentinelHunter)
+
+Detector de keyloggers, troyanos y programas ocultos para Windows 10 y 11.
+
+- Detecta procesos que se disfrazan de Windows y comandos ocultos
+- Audita el inicio: registro, carpetas y tareas programadas
+- Cuarentena reversible y reportes en HTML
+- Python · CustomTkinter · Authenticode
+
+**[⬇️ Descargar](https://github.com/AlejandroMayorca/SentinelHunter/releases/latest)**
+
+</td>
+</tr>
 </table>
 
 ## 📂 Otros proyectos
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| [**SentinelHunter**](https://github.com/AlejandroMayorca/SentinelHunter) | Herramienta de defensa para Windows que detecta keyloggers y amenazas persistentes. | Python |
 | [**Generador de bots de Discord**](https://github.com/AlejandroMayorca/bot_discord_ayuda) | Genera un bot de Discord listo para usar con comandos, guía paso a paso y asistente para publicarlo en GitHub. | JavaScript · Python |
 | [**Web Shop Starter**](https://github.com/AlejandroMayorca/Proyecto_Pagina_Web) | Plantilla de tienda en línea responsive con catálogo y filtros, sin frameworks. | HTML · CSS · JS |
 
@@ -61,6 +82,7 @@ Además desarrollo, como freelancer, **tiendas en línea, sitios para negocios y
 
 - 🌐 **Desarrollo web:** sitios y tiendas en línea modernos y adaptados a móvil.
 - 🖥️ **Aplicaciones de escritorio:** programas para Windows con instalador propio.
+- 🛡️ **Seguridad en Windows:** detección de software espía, persistencia y análisis de procesos.
 - ⚙️ **Automatización:** scripts y herramientas que ahorran tiempo y reducen errores.
 - 🤖 **Bots de Discord:** moderación, roles, niveles, economía e integración con APIs.
 
