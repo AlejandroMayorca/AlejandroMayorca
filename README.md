@@ -66,7 +66,7 @@ Detector de keyloggers, troyanos y programas ocultos para Windows 10 y 11.
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| [**Generador de bots de Discord**](https://github.com/AlejandroMayorca/bot_discord_ayuda) | Genera un bot de Discord listo para usar con comandos, guía paso a paso y asistente para publicarlo en GitHub. | JavaScript · Python |
+| [**Bot Discord Ayuda**](https://github.com/AlejandroMayorca/bot_discord_ayuda) | Plantilla de bot de Discord en español y de código abierto: 11 comandos slash, generador de comandos y guía paso a paso. | JavaScript · discord.js |
 | [**Web Shop Starter**](https://github.com/AlejandroMayorca/Proyecto_Pagina_Web) | Plantilla de tienda en línea responsive con catálogo y filtros, sin frameworks. | HTML · CSS · JS |
 
 Además desarrollo, como freelancer, **tiendas en línea, sitios para negocios y sistemas de registro** para clientes (repositorios privados).
